@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/006_AOP/SpringAOP_26/pom.xml" />
+        <option value="$PROJECT_DIR$/007_AOP_Annotaion_HOMEWORK/SpringAOP_27/pom.xml" />
+        <option value="$PROJECT_DIR$/006_AOP_HOMEWORK/SpringAOP_26/pom.xml" />
+        <option value="$PROJECT_DIR$/008_AOP_Interface/SpringAOP_28/pom.xml" />
+        <option value="$PROJECT_DIR$/HOMEWORK_TASK_7/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/008_AOP_Interface_HOMEWORK_TASK_5/SpringAOP_28/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
